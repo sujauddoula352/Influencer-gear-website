@@ -1,0 +1,52 @@
+/* share style section start */
+*{
+    margin: 0 ;
+    padding: 0;
+    font-family: 'Poppins', 'sans-serif';
+    font-family: 'Inter', 'sans-serif';
+
+
+}
+/* header style section start */
+header{
+    max-width: 100%;
+    font-family: 'Poppins', 'sans-serif';
+    color: #FFF;
+    margin: 90px 120px;
+    
+}
+nav{ 
+    display: flex;
+    justify-content: space-between; 
+    
+}
+nav h3{
+    max-width: 243px;
+    font-size:1.52rem ;
+    color:#3A3A3A ;
+    font-weight: 700;
+}
+nav > ul{
+    display: flex;
+    gap: 2.15rem;
+    list-style: none;
+    color:#3A3A3A ;
+    font-size:1rem ;
+    font-weight:600 ;
+    font-size: 1.25rem;
+}
+nav ul a{
+    text-decoration: none;
+}
+
+
+/* header style section end */
+
+
+
+
+
+/* Responsive style section */
+@media screen and (max-width:576px) {
+    
+}
